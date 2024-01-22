@@ -8,6 +8,7 @@ Download the <a href = "https://github.com/Blas1ed/Gorilla-Snake/releases/latest
 Movement Can be a tiny bit buggy at times
 
 # Mod Requirements
+Utilla V1.5.0
 Computer++ V1.0.1
 
 # Info
