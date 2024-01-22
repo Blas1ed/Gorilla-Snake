@@ -8,4 +8,4 @@ Download the Zip then place the "BepInEx" folder in your main directory where "G
 Movement Can be a tiny bit buggy at times
 
 # Info
-
+Find Any Issues? Click <a href = "https://github.com/Blas1ed/Gorilla-Snake/issues/new/choose">Here<a> To Make A Issue!
