@@ -8,7 +8,7 @@ Download the <a href = "https://github.com/Blas1ed/Gorilla-Snake/releases/latest
 Movement Can be a tiny bit buggy at times
 
 # Mod Requirements
-ComputerPlusPlus V1.0.1
+Computer++ V1.0.1
 
 # Info
 Find Any Issues? Click <a href = "https://github.com/Blas1ed/Gorilla-Snake/issues/new/choose">Here<a> To Make A Issue!<br />
