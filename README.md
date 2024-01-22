@@ -9,3 +9,5 @@ Movement Can be a tiny bit buggy at times
 
 # Info
 Find Any Issues? Click <a href = "https://github.com/Blas1ed/Gorilla-Snake/issues/new/choose">Here<a> To Make A Issue!
+![GitHub Downloads (all assets, all releases)](https://img.shields.io/github/downloads/Blas1ed/Gorilla-Snake/total?color=%2300FF00)
+
